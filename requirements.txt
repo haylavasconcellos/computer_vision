@@ -1,0 +1,34 @@
+opencv-python
+notebook
+ipykernel
+matplotlib
+numpy<2
+mypy
+pre-commit
+scikit-learn
+networkx
+tqdm
+open3d-python
+open3d
+kagglehub
+
+#Image Comparators
+basicsr
+lpips
+torchvision
+scikit-image #Contem um dos comparadores
+torchmetrics
+realesrgan
+bsrgan
+gfpgan 
+basicsr 
+facexlib
+codeformer-pip
+torch>=2.2.0
+diffusers>=0.21.0
+transformers>=4.30.0
+accelerate>=0.20.0
+safetensors>=0.3.1
+Pillow>=9.0.0
+pyyaml>=6.0
+-e ./src

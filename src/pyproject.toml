@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "canon"
+version = "0.1.2"
+description = "Codigo canonico do projeto"
+authors = [
+  { name = "Hayla Pereira Belozi Vasconcellos", email = "haylavasconcellos@gmail.com" }
+]
+dependencies = []
